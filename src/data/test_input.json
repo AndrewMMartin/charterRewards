@@ -1,0 +1,302 @@
+[
+  {
+    "date" : "2020-05-02",
+    "name" : "Greg",
+    "amount" : "75.53"
+  },
+  {
+    "date" : "2020-05-04",
+    "name" : "Greg",
+    "amount" : "60.43"
+  },
+  {
+    "date" : "2020-05-06",
+    "name" : "Greg",
+    "amount" : "70.76"
+  },
+  {
+    "date" : "2020-05-08",
+    "name" : "Greg",
+    "amount" : "134.56"
+  },
+  {
+    "date" : "2020-05-10",
+    "name" : "Greg",
+    "amount" : "69.99"
+  },
+  {
+    "date" : "2020-05-12",
+    "name" : "Greg",
+    "amount" : "120.45"
+  },
+  {
+    "date" : "2020-05-14",
+    "name" : "Greg",
+    "amount" : "83.55"
+  },
+  {
+    "date" : "2020-05-16",
+    "name" : "Greg",
+    "amount" : "65.88"
+  },
+  {
+    "date" : "2020-05-18",
+    "name" : "Greg",
+    "amount" : "72.92"
+  },
+  {
+    "date" : "2020-05-20",
+    "name" : "Greg",
+    "amount" : "81.63"
+  },
+  {
+    "date" : "2020-05-22",
+    "name" : "Greg",
+    "amount" : "52.12"
+  },
+  {
+    "date" : "2020-05-24",
+    "name" : "Greg",
+    "amount" : "180.32"
+  },
+  {
+    "date" : "2020-05-26",
+    "name" : "Greg",
+    "amount" : "90.22"
+  },
+  {
+    "date" : "2020-05-28",
+    "name" : "Greg",
+    "amount" : "91.65"
+  },
+  {
+    "date" : "2020-05-30",
+    "name" : "Greg",
+    "amount" : "52.45"
+  },
+  {
+    "date" : "2020-06-02",
+    "name" : "Greg",
+    "amount" : "75.53"
+  },
+  {
+    "date" : "2020-06-04",
+    "name" : "Greg",
+    "amount" : "82.34"
+  },
+  {
+    "date" : "2020-06-06",
+    "name" : "Greg",
+    "amount" : "47.77"
+  },
+  {
+    "date" : "2020-06-08",
+    "name" : "Greg",
+    "amount" : "60.49"
+  },
+  {
+    "date" : "2020-06-10",
+    "name" : "Greg",
+    "amount" : "56.34"
+  },
+  {
+    "date" : "2020-06-12",
+    "name" : "Greg",
+    "amount" : "52.11"
+  },
+  {
+    "date" : "2020-06-14",
+    "name" : "Greg",
+    "amount" : "92.57"
+  },
+  {
+    "date" : "2020-06-16",
+    "name" : "Greg",
+    "amount" : "71.67"
+  },
+  {
+    "date" : "2020-06-18",
+    "name" : "Greg",
+    "amount" : "70.56"
+  },
+  {
+    "date" : "2020-06-20",
+    "name" : "Greg",
+    "amount" : "76.43"
+  },
+  {
+    "date" : "2020-06-22",
+    "name" : "Greg",
+    "amount" : "82.43"
+  },
+  {
+    "date" : "2020-06-24",
+    "name" : "Greg",
+    "amount" : "55.88"
+  },
+  {
+    "date" : "2020-06-26",
+    "name" : "Greg",
+    "amount" : "64.93"
+  },
+  {
+    "date" : "2020-06-28",
+    "name" : "Greg",
+    "amount" : "58.44"
+  },
+  {
+    "date" : "2020-06-30",
+    "name" : "Greg",
+    "amount" : "87.43"
+  },
+  {
+    "date" : "2020-07-02",
+    "name" : "Greg",
+    "amount" : "93.34"
+  },
+  {
+    "date" : "2020-07-04",
+    "name" : "Greg",
+    "amount" : "61.66"
+  },
+  {
+    "date" : "2020-07-06",
+    "name" : "Greg",
+    "amount" : "72.70"
+  },
+  {
+    "date" : "2020-07-08",
+    "name" : "Greg",
+    "amount" : "80.56"
+  },
+  {
+    "date" : "2020-07-10",
+    "name" : "Greg",
+    "amount" : "92.45"
+  },
+  {
+    "date" : "2020-07-12",
+    "name" : "Greg",
+    "amount" : "69.44"
+  },
+  {
+    "date" : "2020-07-14",
+    "name" : "Greg",
+    "amount" : "59.32"
+  },
+  {
+    "date" : "2020-07-16",
+    "name" : "Greg",
+    "amount" : "62.59"
+  },
+  {
+    "date" : "2020-07-18",
+    "name" : "Greg",
+    "amount" : "80.88"
+  },
+  {
+    "date" : "2020-07-20",
+    "name" : "Greg",
+    "amount" : "78.43"
+  },
+  {
+    "date" : "2020-07-22",
+    "name" : "Greg",
+    "amount" : "54.98"
+  },
+  {
+    "date" : "2020-07-24",
+    "name" : "Greg",
+    "amount" : "67.29"
+  },
+  {
+    "date" : "2020-07-26",
+    "name" : "Greg",
+    "amount" : "88.45"
+  },
+  {
+    "date" : "2020-07-28",
+    "name" : "Greg",
+    "amount" : "72.23"
+  },
+  {
+    "date" : "2020-07-30",
+    "name" : "Greg",
+    "amount" : "57.55"
+  },
+  {
+    "date" : "2020-05-10",
+    "name" : "Sarah",
+    "amount" : "123.43"
+  },
+  {
+    "date" : "2020-05-24",
+    "name" : "Sarah",
+    "amount" : "145.75"
+  },
+  {
+    "date" : "2020-06-08",
+    "name" : "Sarah",
+    "amount" : "120.76"
+  },
+  {
+    "date" : "2020-06-15",
+    "name" : "Sarah",
+    "amount" : "130.05"
+  },
+  {
+    "date" : "2020-06-23",
+    "name" : "Sarah",
+    "amount" : "195.66"
+  },
+  {
+    "date" : "2020-07-01",
+    "name" : "Sarah",
+    "amount" : "104.89"
+  },
+  {
+    "date" : "2020-07-15",
+    "name" : "Sarah",
+    "amount" : "128.92"
+  },
+  {
+    "date" : "2020-07-20",
+    "name" : "Sarah",
+    "amount" : "90.45"
+  },
+  {
+    "date" : "2020-07-30",
+    "name" : "Sarah",
+    "amount" : "151.43"
+  },
+  {
+    "date" : "2020-05-15",
+    "name" : "Jim",
+    "amount" : "55.82"
+  },
+  {
+    "date" : "2020-06-06",
+    "name" : "Jim",
+    "amount" : "60.18"
+  },
+  {
+    "date" : "2020-06-20",
+    "name" : "Jim",
+    "amount" : "12.53"
+  },
+  {
+    "date" : "2020-07-10",
+    "name" : "Jim",
+    "amount" : "33.02"
+  },
+  {
+    "date" : "2020-07-21",
+    "name" : "Jim",
+    "amount" : "45.98"
+  },
+  {
+    "date" : "2020-07-31",
+    "name" : "Jim",
+    "amount" : "51.89"
+  }
+]
